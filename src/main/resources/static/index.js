@@ -1,1 +1,3 @@
-alert("hello gaya and aisha are dangerous")
+
+// alert("hellgaya and aisha are")
+console.log("hellgaya and aisha are");
