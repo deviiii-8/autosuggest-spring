@@ -1,2 +1,1 @@
-
-alert("hello gaya and aisha are dangerous")=[;/]
+alert("hello gaya and aisha are dangerous")
