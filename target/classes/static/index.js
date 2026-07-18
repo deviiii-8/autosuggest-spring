@@ -1,1 +1,1 @@
-alert("hello gaya and aisha are dangerous")
+alert("are u sure you want to enter this page???");

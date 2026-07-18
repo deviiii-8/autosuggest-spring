@@ -1,1 +1,1 @@
-alert("Hello guysss")
+alert("are u sure you want to enter this page???");
