@@ -1,54 +1,62 @@
 body{
     margin: 0px;
-    background-color: rgba(233, 24, 139, 0.358);
+    background-color: #FFF0F5;
 }
 
-h1 {
-    color: red;
+h1{
+    color: #D63384;
+    text-align: center;
 }
 
 .navbar{
-    border-style: solid;
-    border-width: 1px;
-    border-color: gray;
+    border: 1px solid #FFC2D1;
     padding: 20px;
     text-align: center;
-    background-color: rgba(210, 15, 168, 0.363)));
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 10px lightgray;
 }
 
 .navbar a{
     padding: 20px;
     text-decoration: none;
-    color: black;
+    color: #E75480;
     font-size: 20px;
 }
 
 .navbar a:hover{
-    color: rgba(128, 255, 0, 0.47);
-    background-color: rgba(255, 0, 191, 0.292);
+    color: white;
+    background-color: #FF69B4;
 }
 
 .card{
-    border: 1px solid black;
+    border: 1px solid #FFC2D1;
     width: 350px;
     border-radius: 30px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 20px;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    background-color: rgba(213, 244, 39, 0.406);
+    background-color: white;
+    box-shadow: 0px 4px 10px lightgray;
 }
 
 .card img{
-    /* width: 300px; */
     width: 100%;
 }
 
 .card button{
-    border-style: none;
+    border: none;
     padding: 10px;
     width: 80%;
-    border-radius: 8px;
+    border-radius: 20px;
+    background-color: #FF69B4;
+    color: white;
+    font-size: 16px;
+}
+
+.card button:hover{
+    background-color: #E75480;
+    color: white;
 }
